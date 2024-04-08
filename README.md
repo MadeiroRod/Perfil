@@ -4,7 +4,7 @@
   Olá, eu sou <strong>Rodrigo Madeiro</strong>, tenho 28 anos e minha stack é composta por <strong>Java, Angular, React e ReactNative.</strong></br> Atualmente, estou me dedicando aos estudos em análise e desenvolvimento de sistemas e estou sempre em busca de novos desafios e maneiras de contribuir para projetos significativos.
 </p>
 <p align="left">
-  🦄 Linguagens: **Java / Angular / React / ReactNative / Swift**
+  🥊 Linguagens: **Java / Angular / React / ReactNative / Swift**
 </p>
 
 <p align="left">
